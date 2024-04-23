@@ -27,6 +27,12 @@ You should have received a copy of the GNU General Public License along with Noo
     --sidebar-button-color: white;
     --sidebar-button-color-hover: #0e0e1d;
     --card-bg: #353535;
+    --background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://telegra.ph/file/356f5c286f36c6b6d5fbe.jpg');
+    --background-size: cover;
+    --background-repeat: no-repeat;
+    --position: relative;
+    --background-position: center;
+    --background-attachment: fixed;
 }
 
 :root {
